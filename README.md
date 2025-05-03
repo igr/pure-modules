@@ -1,1 +1,1 @@
-# pure-modules
+# Pure Modules

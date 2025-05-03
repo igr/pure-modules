@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - dev.oblac.messenger.service.MessengerServiceAppKt.module
+    deployment:
+        port: 8080
